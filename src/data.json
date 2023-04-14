@@ -1,0 +1,56 @@
+[
+      {
+        "Id":1,
+        "JudulAcara": "Ngabuburide Kota Kretek",
+        "Penyelenggara": "Eventfest",
+        "Tanggal": "16 April 2023",
+        "Lokasi": "Kudus",
+        "Deskripsi": "Haloo!!! Para pecinta riding. NGABUBURIDE KOTA KRETEK adalah festival riding yang dilaksanakan pada bulan Ramadhan. Acara ini akan dimeriahkan oleh 3 artis ternama yang ada di wilayah jepara dan pati. Acara ini akan berlangsung pada tanggal 16 April 2023.",
+        "Gambar" : "https://artatix.co.id/img/event_banner/E679A796-6434-41DF-BC32-B905629C7A22%20-%20FIRDAUSI%20CHANNEL.png"
+      },
+      {
+        "Id":2,
+        "JudulAcara": "Lukisan Suara",
+        "Penyelenggara": "Marvillose Management",
+        "Tanggal": "12 Mei 2023",
+        "Lokasi": "Yogyakarta",
+        "Deskripsi": "Lukisan Suara 2023 adalah Festival Musik yang digelar di Yogyakarta dengan menampilkan guest star lokal terkenal, Lukisan Suara 2023 akan berlangsung pada 12 Mei 2023.",
+        "Gambar" : "https://artatix.co.id/img/event_banner/1929538300-Home%20Banner.jpg"
+      },
+      {
+        "Id":3,
+        "JudulAcara": "Serasa Nada",
+        "Penyelenggara": "Juwana Creative",
+        "Tanggal": "27 Mei 2023",
+        "Lokasi": "Yogyakarta",
+        "Deskripsi": "Serasa Nada #2 2023 adalah Festival Musik terbesar di Yogyakarta dengan menampilkan 10 artis Nasional terkenal, Serasa Nada #2 2023 akan berlangsung selama 2 hari pada tanggal 27 Mei dan 28 Mei 2023.",
+        "Gambar" : "https://artatix.co.id/img/event_banner/1523736703-Serasa-Nada_Banner-1062x427-px_page-0001.jpg"
+      },
+      {
+        "Id":4,
+        "JudulAcara": "MultiFest 2023",
+        "Penyelenggara": "BEM UBAYA",
+        "Tanggal": "28 Mei 2023",
+        "Lokasi": "Surabaya",
+        "Deskripsi": "Multifest adalah acara gabungan dari Kementerian Nasionalisme, Kementerian Seni dan Budaya, dan Kementerian Kerohanian BEM Universitas Surabaya yang ditujukan bagi mahasiswa UBAYA dan masyarakat umum. Multifest diselenggarakan dengan tujuan utamanya yakni agar melalui acara ini, pengunjung dapat memperoleh wawasan mengenai pentingnya kita memahami, menerima, menghargai keragaman, serta menjunjung tinggi nilai-nilai nasionalisme.",
+        "Gambar" : "https://artatix.co.id/img/event_banner/Banner-event-Multifest.jpg"
+      },
+      {
+        "Id":5,
+        "JudulAcara": "Swarnadwipa Music Festival",
+        "Penyelenggara": "Your Creative",
+        "Tanggal": "17 Juni 2023",
+        "Lokasi": "Solo",
+        "Deskripsi": "SWARNADWIPA merupakan salah satu perhelatan musik yang akan menjadi yang terbesar di solo raya dan sekitarnya. Event ini akan menjadi event musik rutinan warga solo raya dan sekitarnya untuk menikmati karya - karya luar biasa musisi tanah air dari berbagai genre.",
+        "Gambar" : "https://artatix.co.id/img/event_banner/C189653A-0472-4461-B473-6F59D18BA5EF.jpeg"
+      },
+      {
+        "Id":6,
+        "JudulAcara": "Summer Music Fest",
+        "Penyelenggara": "Djafar Production",
+        "Tanggal": "7 Juli 2023",
+        "Lokasi": "Yogyakarta",
+        "Deskripsi": "Summer Music Festival adalah acara tahunan yg akan di buat di seluruh daerah di Indonesia Dengan konsep One Stop Entertainment",
+        "Gambar" : "https://artatix.co.id/img/event_banner/event-banner-summer-fest.jpeg"
+      }
+]
